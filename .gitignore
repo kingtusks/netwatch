@@ -1,0 +1,23 @@
+# env
+.env
+.env.*
+!.env.example
+
+# python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+
+# node
+node_modules/
+dist/
+.cache/
+
+# docker
+*.log
+
+# os
+.DS_Store
+Thumbs.db
